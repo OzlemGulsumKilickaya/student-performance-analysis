@@ -16,11 +16,17 @@ This data analysis project investigates trends and performance metrics based on 
 ## 🗂️ Project Structure
 
 student-performance-analysis/
+
 ├── data/ # Raw or cleaned datasets (excluded from GitHub)
+
 ├── notebooks/ # Jupyter notebooks with step-by-step analysis
+
 ├── output/ # Exported figures, tables, or summaries
+
 ├── README.md # Project overview and documentation
+
 ├── requirements.txt # List of Python packages needed
+
 └── .gitignore # Specifies files to exclude from version control
 
 
